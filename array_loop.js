@@ -2,7 +2,7 @@
 
 // Object - is a collection of key values
 
-
+const students = ["Enoch", "Dylan", "Faustin","Mudalib","Brian","Sarah"]
 
 const student = {
     firstName: "Enoch",
@@ -39,7 +39,7 @@ for (let i = 5; i >= -20; i-- ) {
     console.log("Iteration number:" + i);
 }
 
-const students = ["Enoch", "Dylan", "Faustin","Mudalib","Brian","Sarah"]
+
 
 for (let i = 0; i < students.length; i++) {
     console.log(students[i]);
